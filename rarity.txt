@@ -1,0 +1,63 @@
+
+Fruits n vegetables Recipes (EKO VALUE 100$)
+
+Apple +2 Food +2 Hp - -
+Cucumber +2 Food +2 Hp - -
+Dragonfruit +2 Food +2 Hp - -
+Coconut Food +2 Hp -- 
+BlueBerries +2 Food +2 Hp - 
+Grapes +2 Food +2 Hp - 
+Chilli +2 Food +2 Hp - 
+Kiwi +2 Food +2 Hp - 
+Lemon +2 Food +2 Hp -
+Mushroom +2 Food +2 Hp -
+Orange +2 Food +2 Hp -
+Peach +2 Food +2 Hp -
+Pear +2 Food +2 Hp -
+Raspberry +2 Food +2 Hp -
+Strawberry +2 Food +2 Hp -
+Cherry +2 Food +2 Hp -
+Vanilla +2 Food +2 Hp -
+Watermeloon +2 Food +2 Hp -
+Banana +2 Food +2 Hp
+
+Drinks EKO VALUE (180$) 
+Recipes
+!!! 1Waterjar + 1dané ovoce !!!
+
+
+-Apple +21 Water, +3 Food, +21 Stamina, +1HP 
+-Orange +22 Water, +4 Food, +22 Stamina, +2 HP
+-Banana +25 Water, +5 Food, + 25 Stamina, +3 HP
+-Strawberry +28 Water, +5 Food, +28 Stamina, +5 HP
+-Kiwi +28 Water, +6 Food, + 30 Stamina, +6 HP
+-Blueberry +28 Water, +6 Food, +31 Stamina, +7 HP
+-Cherry +30 Water, +7 Food, + 31 Stamina, +7 HP
+-Cucumber +33 Water, +8 Food, + 33 Stamina, +9 HP
+-Lemon +35 Water, +9 Food, + 35 Stamina, +10 HP
+-Raspberry +36 Water, +10 Food, + 36 Stamina, +12 HP
+-Pear +38 Water, +12 Food, +38 Stamina +13HP
+-Mushroom +40 Water, +13 Food, +40 Stamina, +15 HP
+-Peach +42 Water, +14 Food, +42 Stamina, +16 HP
+-Grapes +45 Water, +15 Food, +45 Stamina, +20 HP
+-Watermeloon +50 Water, +20 Food, +50 Stamina, + 25HP
+-Coconut +52 Water, +20 Food, +52 Stamina, + 27HP
+-Vanilla +54 Water, +20 Food, +55 Stamina, +30 HP
+-Chilli +55 Water, +20 Food, +55 Stamina, +32 HP
+Dragonfruit + 60 Water, +25 Food, +60 Stamina, +35 HP
+
+
+Recipes
+Multivitamin - 1water jar, +1 ovoce od všeho (EKO VALUE - 15000$)
+
++100 Water , +100 Food, +100 Stamina, +100 HP +100% movement speed for 1minute.
+
+Deadly ( EKO VALUE - 2000$)
+1 Water jar + 1 Chilli, +1 mushroom
++ 200% Melee Dmg for 2minutes.
+
+
+
+
+
+

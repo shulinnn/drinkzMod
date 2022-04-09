@@ -1,0 +1,117 @@
+<Config>
+    <append xpath="/recipes">
+    
+        <recipe name="shAppleDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shApple" count="1" />
+        </recipe>
+
+        <recipe name="shCucumberDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shCucumber" count="1" />
+        </recipe>
+
+        <recipe name="shDragonfruitDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shDragonfruit" count="1" />
+        </recipe>
+
+        <recipe name="shCoconutDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shCoconut" count="1" />
+        </recipe>
+
+        <recipe name="shBlueberryDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shBlueberries" count="1" />
+        </recipe>
+
+        <recipe name="shGrapesDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shGrapes" count="1" />
+        </recipe>
+
+        <recipe name="shChilliDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shChilli" count="1" />
+        </recipe>
+
+        <recipe name="shKiwiDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shKiwi" count="1" />
+        </recipe>
+
+        <recipe name="shLemonDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shLemon" count="1" />
+        </recipe>
+
+        <recipe name="shMushroomDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shMushroom" count="1" />
+        </recipe>
+
+        <recipe name="shOrangeDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shOrange" count="1" />
+        </recipe>
+
+        <recipe name="shPeachDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shPeach" count="1" />
+        </recipe>
+
+        <recipe name="shPearDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shPear" count="1" />
+        </recipe>
+
+        <recipe name="shRaspberryDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shRaspberry" count="1" />
+        </recipe>
+
+        <recipe name="shStrawberryDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shStrawberry" count="1" />
+        </recipe>
+
+        <recipe name="shCherryDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shCherry" count="1" />
+        </recipe>
+
+        <recipe name="shVanillaDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shVanilla" count="1" />
+        </recipe>
+
+        <recipe name="shWatermelonDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shWatermelon" count="1" />
+        </recipe>
+
+        <recipe name="shBananaDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shBanana" count="1" />
+        </recipe>
+
+        <recipe name="shMultivitaminDrink" count="1" craft_time="60">
+
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shDragonfruit" count="1" />
+            <ingredient name="shGrapes" count="1" />
+            <ingredient name="shWatermelon" count="1" />
+            <ingredient name="shPear" count="1" />
+
+        </recipe>
+
+        <recipe name="shDeadlyDrink" count="1" craft_time="60">
+            <ingredient name="drinkJarRiverWater" count="1"/>
+            <ingredient name="shChilli" count="1" />
+            <ingredient name="shMushroom" count="1" />
+
+        </recipe>
+
+    </append>
+</Config>

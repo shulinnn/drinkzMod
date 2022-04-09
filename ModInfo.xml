@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="drinkzMod" />
+		<Description value="Mod which adds some resources and drinks" />
+		<Author value="shulin" />
+		<Version value="0.1" />
+	</ModInfo>
+</xml>

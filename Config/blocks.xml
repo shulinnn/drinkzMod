@@ -1,0 +1,23 @@
+<Config>
+
+    <append xpath="/blocks/block[@name='treeMaster']" >
+        <drop event="Destroy" name="shApple" count="1,5" prob="0.112"></drop>
+        <drop event="Destroy" name="shOrange" count="1,5" prob="0.095"></drop>
+        <drop event="Destroy" name="shBanana" count="1,5" prob="0.087"></drop>
+        <drop event="Destroy" name="shStrawberry" count="1,5" prob="0.082"></drop>
+        <drop event="Destroy" name="shKiwi" count="1,5" prob="0.077"></drop>
+        <drop event="Destroy" name="shBlueberry" count="1,5" prob="0.070"></drop>
+        <drop event="Destroy" name="shCherry" count="1,5" prob="0.065"></drop>
+    </append>
+
+    <append xpath="/blocks/block[@name='treeGrassMaster']">
+        <drop event="Destroy" name="shApple" count="1,5" prob="0.112"></drop>
+        <drop event="Destroy" name="shOrange" count="1,5" prob="0.095"></drop>
+        <drop event="Destroy" name="shBanana" count="1,5" prob="0.087"></drop>
+        <drop event="Destroy" name="shStrawberry" count="1,5" prob="0.082"></drop>
+        <drop event="Destroy" name="shKiwi" count="1,5" prob="0.077"></drop>
+        <drop event="Destroy" name="shBlueberry" count="1,5" prob="0.070"></drop>
+        <drop event="Destroy" name="shCherry" count="1,5" prob="0.065"></drop>
+    </append>
+
+</Config>

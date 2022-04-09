@@ -1,0 +1,34 @@
+<Config>
+
+    <append xpath="/buffs">
+    
+        <buff name="buffMultivitamin" name_key="buffMultivitaminName" description_key="buffMultivitaminNameDesc" tooltip_key="buffMultivitaminNameTooltip" icon="ui_game_symbol_parkour" icon_color="255,128,0" remove_on_death="false">
+            <stack_type value="ignore"/>
+            <duration value="300"/>
+            <effect_group>
+    
+                <passive_effect name="WalkSpeed" operation="perc_add" value=".4"/>
+                <passive_effect name="RunSpeed" operation="perc_add" value=".15"/>
+    
+            </effect_group>
+        </buff>
+
+        <buff name="deadlyBoostMelee" name_key="deadlyBoostMeleeName" description_key="deadlyBoostMeleeDesc" icon="ui_game_symbol_twitch_strength_melee" icon_color="175,175,255">
+            <stack_type value="replace"/>
+            <duration value="30"/>
+            <display_value_format value="time"/>
+    
+            <effect_group>
+                <passive_effect name="EntityDamage" operation="perc_add" value="20">
+                    <requirement name="HoldingItemHasTags" tags="melee"/>
+                </passive_effect>
+                <passive_effect name="BlockDamage" operation="perc_add" value="20">
+                    <requirement name="HoldingItemHasTags" tags="melee"/>
+                </passive_effect>
+    
+            </effect_group>
+        </buff>
+
+    </append>
+
+</Config>
